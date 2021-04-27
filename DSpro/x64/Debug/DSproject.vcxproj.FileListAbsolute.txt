@@ -1,0 +1,2 @@
+C:\Users\mostafa\Documents\Visual Studio 2015\Projects\DSpro\x64\Debug\DSproject.exe
+C:\Users\mostafa\Documents\Visual Studio 2015\Projects\DSpro\x64\Debug\DSproject.pdb

@@ -1,0 +1,8 @@
+﻿  Admin.cpp
+C:\Users\mostafa\Documents\Visual Studio 2015\Projects\DSpro\Admin.cpp(18,10): warning C4101: 'gid': unreferenced local variable
+C:\Users\mostafa\Documents\Visual Studio 2015\Projects\DSpro\Admin.cpp(313,38): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Graph.cpp
+C:\Users\mostafa\Documents\Visual Studio 2015\Projects\DSpro\Graph.cpp(191,11): warning C4129: ' ': unrecognized character escape sequence
+  Source.cpp
+  Generating Code...
+  DSproject.vcxproj -> C:\Users\mostafa\Documents\Visual Studio 2015\Projects\DSpro\x64\Debug\DSproject.exe

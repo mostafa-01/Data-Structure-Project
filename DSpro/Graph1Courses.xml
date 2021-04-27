@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<course name="intro" />
+<intro name="intro" ID="1" max="50" current="0" creditHours="3" parent="1" />
+<intro name="sp" ID="2" max="60" current="0" creditHours="3" parent="1" />
+<intro name="ds" ID="3" max="120" current="0" creditHours="3" parent="1" />
+<course name="ds" />
+<ds name="oop" ID="4" max="70" current="0" creditHours="3" parent="3" />

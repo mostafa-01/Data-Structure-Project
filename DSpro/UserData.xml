@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<student Name="Nour" Password="nournour" ID="1" Year="2" coursesInProgress="" FinishedCourses="" />
+<student Name="BatoulLoulah" Password="batoulbatoul" ID="2" Year="2" coursesInProgress="2 " FinishedCourses="1 " />
+<student Name="Maryam" Password="maryammaryam" ID="3" Year="2" coursesInProgress="" FinishedCourses="" />
+<student Name="joji" Password="123456" ID="4" Year="1" coursesInProgress="" FinishedCourses="" />
